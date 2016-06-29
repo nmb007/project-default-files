@@ -1,2 +1,2 @@
-# It causes Git to autodetect text files and normalise their line endings to LF when they are committed into your repository
+# It causes Git to autodetect text files and normalise their line endings to LF when they are committed into your repository, Importantly, this doesn’t affect the line endings in your working copy. By default Git will convert these to your platform’s default when checking code out of your repo
 * text=auto
